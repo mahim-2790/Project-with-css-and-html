@@ -242,6 +242,10 @@ textarea:focus{
     border-color: #f7c08a;
 }
 
+#form h1{
+    font-size: 40px;
+}
+
 /* contact box */
 .contact-box{
     float: left;
