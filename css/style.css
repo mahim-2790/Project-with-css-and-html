@@ -182,13 +182,7 @@ p{
      width: 50%;
      min-height: 100%;
  }
- /* main footer */
- #main-footer{
-    padding: 1px;
-     text-align: center;
-     background: #444;
-     color: #fff; 
- }
+
 
  #testi{
      height: 600px;
@@ -257,3 +251,11 @@ textarea:focus{
 #contact h3{
     margin-top: 5px;
 }
+
+ /* main footer */
+ #main-footer{
+    padding: 1px;
+     text-align: center;
+     background: #444;
+     color: #fff; 
+ }

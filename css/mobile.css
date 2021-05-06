@@ -1,0 +1,65 @@
+
+/* Showcase */
+#showcase{
+    height: 720px;
+}
+#showcase .showcase-contain{
+    padding: 60px 0px;
+}
+
+
+/* home info */
+#home-info .info-img{
+    display: none;
+}
+
+#home-info .info-contain{
+    float: none;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    padding: 60px 30px;
+}
+
+/* features */
+.box{
+    float: none;
+    width: 100%;
+    height: 250px;
+    padding: 20px;
+}
+
+/* about page */
+#about-info .img{
+    display: none;
+}
+#about-info .description{
+    float: none;
+    width: 100%;
+    text-align: center;
+}
+
+#testi{
+    height: 850px;
+    padding-top: 50px;
+}
+
+#testi h2{
+    font-size: 35px;
+   
+}
+
+/* contact page */
+
+.contact-box{
+    float: none;
+    width: 100%;
+    padding: 40px;
+    text-align: center;
+    border-bottom: #444 solid;
+}
+
+#mail{
+    margin-bottom: 3px;
+}
+
