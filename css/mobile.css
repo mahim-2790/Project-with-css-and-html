@@ -40,7 +40,7 @@
 }
 
 #testi{
-    height: 850px;
+    height: 900px;
     padding-top: 50px;
 }
 
@@ -50,7 +50,9 @@
 }
 
 /* contact page */
-
+#cntct{
+    margin-top: 1px;
+}
 .contact-box{
     float: none;
     width: 100%;
